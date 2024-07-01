@@ -16,7 +16,8 @@
         <div id="controls">
             <button id="join-btn">Join Call</button>
             <button id="leave-btn">Leave Call</button>
-            <button id="toggle-mic-btn">Toggle Mic</button>
+            <button id="toggle-mic-btn">Toggle Mic</button> 
+            
             <button id="toggle-camera-btn">Toggle Camera</button>
         </div>
     </div>

@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#app {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#local-video-container {
+    margin: 20px 0;
+}
+
+video {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    background-color: #000;
+}
+
+#controls {
+    margin-top: 20px;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
